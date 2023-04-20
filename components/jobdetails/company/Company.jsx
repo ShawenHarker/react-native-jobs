@@ -3,7 +3,7 @@ import { View, Text, Image } from "react-native";
 
 import styles from "./company.style";
 import { icons } from "../../../constants";
-import { checkImageURL } from "../../../utils";
+// import { checkImageURL } from "../../../utils";r
 
 const Company = ({ companyLogo, jobTitle, companyName, location }) => {
   return (
